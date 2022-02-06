@@ -5,7 +5,7 @@ public class birthday {
 	enum days{ sunday,monday,tuesday,wednesday,thursday,friday,saturday};
 	enum months{ january , febraury,march, june , august, september,october};
 	{
-		System.out.println(a[1]+""  +days.thursday+"" +months.march);
+		System.out.println("" +days.thursday+"" +months.march);
 		
 	}
 
