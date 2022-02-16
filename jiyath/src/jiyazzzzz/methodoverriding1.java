@@ -28,7 +28,7 @@ public class methodoverriding1 {
 	
 
 
-public  void main(String[]args)
+public void main(String[]args)
 {
  bike b = new bike();
  b.run();
